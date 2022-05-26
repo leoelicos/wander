@@ -26,6 +26,8 @@ I made this app to learn about `sql` including creating, reading, updating and d
 | Initialize database               | `cd db`<br>`mysql -u root -p`<br>`{password}`<br>`source schema.sql;`<br>`exit` |
 | Install dependencies              | `cd ..`<br>`npm install`                                                        |
 | Run seeds                         | `npm run seed`                                                                  |
+| Test in Insomnia                  | `npm run seed`                                                                  |
+| Also test on Heroku               | [Trips Database on Heroku](https://leoelicos-trips-database.herokuapp.com/)     |
 
 ## Usage
 
@@ -50,10 +52,10 @@ I made this app to learn about `sql` including creating, reading, updating and d
 
 https://user-images.githubusercontent.com/99461390/170417099-e0b73b9b-6b51-44e9-868f-2927e8ff943b.mp4
 
-
 ## Screenshots
 
 ### Screenshot: Insomnia GET /api/locations
+
 ![Insomnia GET locations](https://user-images.githubusercontent.com/99461390/170417348-6d0a4e0b-e463-4dff-b4f6-d17f0a28426f.jpg)
 
 ### Screenshot: Heroku Homepage
@@ -61,8 +63,8 @@ https://user-images.githubusercontent.com/99461390/170417099-e0b73b9b-6b51-44e9-
 ![Heroku Homepage](https://user-images.githubusercontent.com/99461390/170417410-e84da0b1-9b1e-4633-aed9-889aae47cbce.jpg)
 
 ### Screenshot: Heroku Render
-![Heroku Render](https://user-images.githubusercontent.com/99461390/170417462-17359ca0-5eee-42a1-9181-44c35a0249ea.jpg)
 
+![Heroku Render](https://user-images.githubusercontent.com/99461390/170417462-17359ca0-5eee-42a1-9181-44c35a0249ea.jpg)
 
 ## Credits
 
