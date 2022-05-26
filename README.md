@@ -1,12 +1,12 @@
 # Trips Database
 
-API using Node.js, Express.js, MySQL, Sequelize, dotenv, bcrypt
-
 ![Node.js](https://img.shields.io/badge/16.15.0%20LTS-0?label=Node.js&style=for-the-badge&labelColor=white&color=black) ![Express.js](https://img.shields.io/badge/4.17.1-0?label=Express&style=for-the-badge&labelColor=white&color=black) ![Mysql2](https://img.shields.io/badge/2.2.1-0?label=Mysql2&style=for-the-badge&labelColor=white&color=black) ![Sequelize](https://img.shields.io/badge/6.3.5-0?label=Sequelize&style=for-the-badge&labelColor=white&color=black) ![dotenv](https://img.shields.io/badge/8.2.0-0?label=dotenv&style=for-the-badge&labelColor=white&color=black) ![bcrypt](https://img.shields.io/badge/5.0.0-0?label=bcrypt&style=for-the-badge&labelColor=white&color=black) ![Heroku](https://img.shields.io/badge/7.60.2-0?label=heroku&style=for-the-badge&labelColor=white&color=black)
 
 ## Introduction
 
-Trips Database stores a database of Trip entities, which are incidences of Travellers and Locations.
+Trips Database is an API that uses Node.js, Express.js, MySQL, Sequelize, dotenv, bcrypt, Heroku
+
+The app stores a database of Trip entities, which are incidences of Travellers and Locations. Travellers have many Locations, through Trips, and Locations also have many Travellers, through Trips.
 
 The app uses `express.js` to coordinate the routes, and `mysql2` to handle the database;
 
@@ -26,7 +26,7 @@ I made this app to learn about `sql` including creating, reading, updating and d
 | Initialize database               | `cd db`<br>`mysql -u root -p`<br>`{password}`<br>`source schema.sql;`<br>`exit` |
 | Install dependencies              | `cd ..`<br>`npm install`                                                        |
 | Run seeds                         | `npm run seed`                                                                  |
-| Test in Insomnia                  | `npm run seed`                                                                  |
+| Test in Insomnia                  | See [Usage](#usage)                                                             |
 | Also test on Heroku               | [Trips Database on Heroku](https://leoelicos-trips-database.herokuapp.com/)     |
 
 ## Usage
