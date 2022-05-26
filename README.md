@@ -2,7 +2,7 @@
 
 API using Node.js, Express.js, MySQL, Sequelize, dotenv, bcrypt
 
-![Node.js](https://img.shields.io/badge/16.15.0%20LTS-0?label=Node.js&style=for-the-badge&labelColor=white&color=black) ![Express.js](https://img.shields.io/badge/4.17.1-0?label=Express&style=for-the-badge&labelColor=white&color=black) ![Mysql2](https://img.shields.io/badge/2.2.1-0?label=Mysql2&style=for-the-badge&labelColor=white&color=black) ![Sequelize](https://img.shields.io/badge/6.3.5-0?label=Sequelize&style=for-the-badge&labelColor=white&color=black) ![dotenv](https://img.shields.io/badge/8.2.0-0?label=dotenv&style=for-the-badge&labelColor=white&color=black) ![bcrypt](https://img.shields.io/badge/5.0.0-0?label=bcrypt&style=for-the-badge&labelColor=white&color=black)
+![Node.js](https://img.shields.io/badge/16.15.0%20LTS-0?label=Node.js&style=for-the-badge&labelColor=white&color=black) ![Express.js](https://img.shields.io/badge/4.17.1-0?label=Express&style=for-the-badge&labelColor=white&color=black) ![Mysql2](https://img.shields.io/badge/2.2.1-0?label=Mysql2&style=for-the-badge&labelColor=white&color=black) ![Sequelize](https://img.shields.io/badge/6.3.5-0?label=Sequelize&style=for-the-badge&labelColor=white&color=black) ![dotenv](https://img.shields.io/badge/8.2.0-0?label=dotenv&style=for-the-badge&labelColor=white&color=black) ![bcrypt](https://img.shields.io/badge/5.0.0-0?label=bcrypt&style=for-the-badge&labelColor=white&color=black) ![Heroku](https://img.shields.io/badge/7.60.2-0?label=heroku&style=for-the-badge&labelColor=white&color=black)
 
 ## Introduction
 
