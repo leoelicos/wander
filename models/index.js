@@ -4,20 +4,20 @@ const Trip = require('./Trip');
 
 Traveller.hasMany(Trip, {
 	foreignKey: 'traveller_id',
-	onDelete: 'SET NULL',
+	onDelete: 'SET NULL'
 });
 
 Trip.belongsTo(Traveller, {
-	foreignKey: 'traveller_id',
+	foreignKey: 'traveller_id'
 });
 
 Location.hasMany(Trip, {
 	foreignKey: 'location_id',
-	onDelete: 'CASCADE',
+	onDelete: 'CASCADE'
 });
 
 Trip.belongsTo(Location, {
-	foreignKey: 'location_id',
+	foreignKey: 'location_id'
 });
 
 module.exports = { Traveller, Location, Trip };
