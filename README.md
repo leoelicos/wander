@@ -48,17 +48,21 @@ I made this app to learn about `sql` including creating, reading, updating and d
 
 ## Video Demo
 
--  ***
+https://user-images.githubusercontent.com/99461390/170417099-e0b73b9b-6b51-44e9-868f-2927e8ff943b.mp4
+
 
 ## Screenshots
 
-### Screenshot: Schema
+### Screenshot: Insomnia GET /api/locations
+![Insomnia GET locations](https://user-images.githubusercontent.com/99461390/170417348-6d0a4e0b-e463-4dff-b4f6-d17f0a28426f.jpg)
 
-![Schema](https://user-images.githubusercontent.com/99461390/170399608-cc1ef5de-a41d-4134-8a3c-12c18bdc170f.png)
+### Screenshot: Heroku Homepage
 
-### Screenshot: Insomnia testing
+![Heroku Homepage](https://user-images.githubusercontent.com/99461390/170417410-e84da0b1-9b1e-4633-aed9-889aae47cbce.jpg)
 
-![Insomnia testing](https://user-images.githubusercontent.com/99461390/170399527-6e4980a4-afea-4a78-9d68-91370f6ad16e.jpg)
+### Screenshot: Heroku Render
+![Heroku Render](https://user-images.githubusercontent.com/99461390/170417462-17359ca0-5eee-42a1-9181-44c35a0249ea.jpg)
+
 
 ## Credits
 
