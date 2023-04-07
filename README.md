@@ -12,6 +12,8 @@ The app uses `express.js` to coordinate the routes, and `mysql2` to handle the d
 
 I made this app to learn about `sql` including creating, reading, updating and deleting actions via `mysql2`.
 
+Deployed: https://wndr.herokuapp.com/api/trips
+
 ## Installation
 
 | Steps                             | Details                                                                         |
@@ -68,7 +70,7 @@ https://user-images.githubusercontent.com/99461390/170417099-e0b73b9b-6b51-44e9-
 
 ## Credits
 
--  BCS Resources
+- BCS Resources
 
 ## License
 
